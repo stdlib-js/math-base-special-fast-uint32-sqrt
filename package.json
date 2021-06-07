@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fast-uint32-sqrt",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "Compute an integer square root.",
   "license": "Apache-2.0",
   "author": {
