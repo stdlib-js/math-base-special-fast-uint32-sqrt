@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@deno/mod.js';
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.2.0-deno/mod.js';
 ```
 
 #### sqrtUint32( x )
@@ -92,7 +92,7 @@ v = sqrtUint32( 0 >>> 0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@deno/mod.js';
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.2.0-deno/mod.js';
 
 var v;
 var i;
