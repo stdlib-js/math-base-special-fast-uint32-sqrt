@@ -42,7 +42,8 @@
   "dependencies": {
     "@stdlib/napi-argv-uint32": "^0.2.1",
     "@stdlib/napi-export": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-library-manifest": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/math-base-assert-is-nan": "^0.2.1",
