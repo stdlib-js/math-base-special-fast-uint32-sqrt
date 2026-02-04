@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fast-uint32-sqrt/tags). For example,
+
+```javascript
 import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.3.1-deno/mod.js';
 ```
 
@@ -92,7 +97,7 @@ v = sqrtUint32( 0 >>> 0 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.3.1-deno/mod.js';
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@deno/mod.js';
 
 var v;
 var i;
