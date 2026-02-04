@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@esm/index.mjs';
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.3.1-esm/index.mjs';
 ```
 
 #### sqrtUint32( x )
@@ -97,7 +97,7 @@ v = sqrtUint32( 0 >>> 0 );
 <body>
 <script type="module">
 
-import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@esm/index.mjs';
+import sqrtUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-uint32-sqrt@v0.3.1-esm/index.mjs';
 
 var v;
 var i;
